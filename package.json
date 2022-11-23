@@ -1,5 +1,5 @@
 {
-  "name": "lottie-react",
+  "name": "lottie-light-react",
   "version": "2.3.1",
   "description": "Lottie for React",
   "keywords": [
@@ -12,16 +12,15 @@
     "component",
     "hook"
   ],
-  "homepage": "https://lottiereact.com",
   "bugs": {
-    "url": "https://github.com/Gamote/lottie-react/issues"
+    "url": "https://github.com/dilan-dio4/lottie-light-react/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gamote/lottie-react.git"
+    "url": "git+https://github.com/dilan-dio4/lottie-light-react.git"
   },
   "license": "MIT",
-  "author": "David Gamote",
+  "author": "Dilan Ozkaynak",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "browser": "build/index.umd.js",

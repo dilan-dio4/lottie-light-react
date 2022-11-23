@@ -1,4 +1,4 @@
-import { AnimationSegment } from "lottie-web";
+import type { AnimationSegment } from "lottie-web";
 import React, { useEffect, ReactElement } from "react";
 import { InteractivityProps } from "../types";
 
