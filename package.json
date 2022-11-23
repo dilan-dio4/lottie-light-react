@@ -38,7 +38,7 @@
     "deploy:docs": "echo 'lottiereact.com' > ./docs-dist/CNAME && gh-pages -d docs-dist",
     "docz:dev": "docz dev",
     "docz:serve": "docz build && docz serve",
-    "prepublishOnly": "rm -rf build && yarn build",
+    "prepublishOnly": "rm -rf build && pnpm run build",
     "rollup:compile": "rollup -c",
     "rollup:compile:watch": "rollup -c -w",
     "test": "jest",

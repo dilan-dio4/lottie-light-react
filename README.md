@@ -63,7 +63,7 @@ Checkout the [**documentation**](https://lottiereact.com) at [**https://lottiere
 
 ## Tests
 
-Run the tests using the `yarn test` command.
+Run the tests using the `pnpm run test` command.
 
 ### Coverage report
 ```text
